@@ -10,5 +10,6 @@ let package = Package(
 			name: "LXSemVer",
 			path: "Sources"
 		)
-	]
+	],
+	swiftLanguageVersions: [.v4, .v4_2]
 )
