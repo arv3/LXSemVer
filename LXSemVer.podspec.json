@@ -1,14 +1,14 @@
 {
 	"name": "LXSemVer",
-	"version": "3.0.1",
+	"version": "3.0.2",
 	"license": "MIT",
 	"authors": {
 		"Stan Chang Khin Boon": "stan@trifia.com"
 	},
-	"homepage": "https://github.com/trifia/LXSemVer",
+	"homepage": "https://github.com/arv3/LXSemVer",
 	"source": {
-		"git": "https://github.com/trifia/LXSemVer.git",
-		"tag": "3.0.1"
+		"git": "https://github.com/arv3/LXSemVer.git",
+		"tag": "3.0.2"
 	},
 	"summary": "Swift Semantic Versioning 2.0.0 model and parser.",
 	"module_name": "LXSemVer",
